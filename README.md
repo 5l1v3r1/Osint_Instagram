@@ -3,16 +3,16 @@
 # Osint_Instagram
 
 
-# ![Locations](https://github.com/attakercyebr/Osint_Instagram_hack4lx/blob/master/1.png) 
+# ![Locations](https://github.com/M4nifest0/Osint_Instagram/blob/main/1.png) 
 
 
-# ![Locations](https://github.com/attakercyebr/Osint_Instagram_hack4lx/blob/master/2.png) 
+# ![Locations](https://github.com/M4nifest0/Osint_Instagram/blob/main/2.png) 
 
 
-# ![Locations](https://github.com/attakercyebr/Osint_Instagram_hack4lx/blob/master/3.png) 
+# ![Locations](https://github.com/M4nifest0/Osint_Instagram/blob/main/3.png) 
 
 
-# ![Locations](https://github.com/attakercyebr/Osint_Instagram_hack4lx/blob/master/4.png) 
+# ![Locations](https://github.com/M4nifest0/Osint_Instagram/blob/main/4.png) 
 
  Commands list and usage
 - info            Get target info
